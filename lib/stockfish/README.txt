@@ -1,0 +1,1 @@
+In this folder you will put stockfish files with .exe and name it StockFish.exe
