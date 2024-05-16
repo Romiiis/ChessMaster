@@ -40,7 +40,7 @@ public class Chess_SP_2023{
 	private static void createFrame(){
 		JFrame menu = new JFrame();
 
-		menu.setTitle("Chess master 2023 - Roman Pejs - A22B0197P");
+		menu.setTitle("Chess master 2023");
 
 
 
